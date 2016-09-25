@@ -28,8 +28,9 @@ print "press enter key to get started!"
 raw_input()
 s_time=time.time()
 toprow()
+print "go down",
 midrow()
-print "\n                                      ",
+print "go right\n                                      ",
 toprow()
 time_elapsed=time.time()-s_time
 print "\ncongrats you have finished the game"
