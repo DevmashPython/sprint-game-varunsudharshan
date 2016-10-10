@@ -3,7 +3,7 @@ import time
 from colorama import init
 from termcolor import colored
 def end():
-	print(colored('\nYOU ARE PATHETIC\nSUCKS TO BE YOU!', 'red'))
+	print(colored('\nYOU ARE PATHETIC\nSUCKS TO BE YOU!\nYOU NEED NOT LIVE ANYMORE\nI WONT MISS YOU', 'red'))
 	exit()
 def toprow():
 	finish=10
